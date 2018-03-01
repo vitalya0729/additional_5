@@ -1,4 +1,4 @@
-module.exports = function check(str, bracketsConfig) {
+module.exports = function check(str, stacksConfig) {
   // your solution
   	let arrStr = str.split('');
 	let stack = [];
